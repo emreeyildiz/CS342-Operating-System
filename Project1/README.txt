@@ -1,2 +1,3 @@
-Muhammed Emre YILDIZ
-21702825
+Assingment is written in Project1.pdf
+Firstly run consumer.c
+Secondly run producer.c
